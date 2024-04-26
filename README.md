@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @liufeifeilll
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+liufeifeilll/liufeifeilll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+
+%%记录MATLAB曲线的标签或图例，由上到下
+legend('原始信号', '上包络线', '下包络线');
+
+
